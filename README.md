@@ -95,4 +95,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-You can modify and adjust the structure as needed for your GitHub README file.
