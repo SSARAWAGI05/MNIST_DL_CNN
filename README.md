@@ -35,7 +35,7 @@ To get started with this project, you'll need to install the required dependenci
 ## Installation
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your_username/real-time-digit-recognition.git
+   git clone https://github.com/SSARAWAGI05/RealTimeOCROfDigits.git
    ```
 2. Navigate to the project directory.
    ```bash
