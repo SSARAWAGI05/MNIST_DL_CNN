@@ -39,7 +39,7 @@ To get started with this project, you'll need to install the required dependenci
    ```
 2. Navigate to the project directory.
    ```bash
-   cd real-time-digit-recognition
+   cd REALTIMEOCROFDIGITS
    ```
 3. Install the required dependencies (listed below).
 
